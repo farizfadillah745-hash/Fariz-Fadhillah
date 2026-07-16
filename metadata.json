@@ -1,0 +1,6 @@
+{
+  "name": "FashCollab",
+  "description": "Fashion Collaboration Platform — A B2B2C marketplace connecting customers with physical stores, featuring virtual queuing, Scan & Go, store dashboard, admin panel, and mock payment integrations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
